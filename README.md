@@ -41,8 +41,7 @@ sudo apt-get installtor
 solicitações de instalação do pip3 [meias]
 Ou simplesmente execute o autoTor, que instalará tudo.
 
-1: clone do git https://github.com/FDX100/Auto_Tor_IP_changer.git
-
+1: clone do git https://github.com/edsonbvrr2025-max/auto-ip-changer.git
 2: cd Auto_IP_changer
 
 3: instalação do python3.py
