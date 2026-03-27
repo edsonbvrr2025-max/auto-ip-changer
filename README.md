@@ -10,7 +10,7 @@ sudo apt-get install tor
 pip3 install requests[socks]
 Ou simplesmente execute autoTor, que instalará tudo.
 
-1: git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
+1: git clone https://github.com/edsonbvrr2025-max/auto-ip-changer.git
 
 2: cd Auto_IP_changer
 
